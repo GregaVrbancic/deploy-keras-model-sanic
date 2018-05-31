@@ -1,4 +1,4 @@
-FROM heroku/miniconda
+FROM python:3.6
 
 # Grab requirements.txt.
 ADD ./webapp/requirements.txt /tmp/requirements.txt
