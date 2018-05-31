@@ -1,0 +1,5 @@
+Keras==2.1.6
+numpy==1.14.3
+sanic==0.7.0
+tensorflow==1.8.0
+
